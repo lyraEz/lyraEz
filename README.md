@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm chead</h1>
-<h3 align="center">A passionate frontend developer from Brasil</h3>
+<h1 align="center">Hi 👋, I'm LyraE </h1>
 
 - 🔭 I’m currently working on [Unknown](hosanna1.com)
 
