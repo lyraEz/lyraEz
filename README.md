@@ -1,4 +1,4 @@
-# Hi there, I'm [lyraEz](discordapp.com/users/941912647572545566 'lyraEz\'s Discord profile') 👀
+# Hi there, I'm [lyraEz](discord.com/users/941912647572545566 'lyraEz\'s Discord profile') 👀
 
 In life, I am:
 - a Brasil ⚽️ 15yo boy ;
@@ -9,7 +9,7 @@ In life, I am:
 
 #### My socials:
 
-<a title="lyraEz's Discord profile" href="discord.gg/users/941912647572545566"><img height="32" width="32" src="https://cdn.simpleicons.org/discord" style="width:40px" /></a>
+<a title="lyraEz's Discord profile" href="discord.com/users/941912647572545566"><img height="32" width="32" src="https://cdn.simpleicons.org/discord" style="width:40px" /></a>
 <a title="lyraEz's Steam profile" href="https://steamcommunity.com/profiles/76561199441993632/"><img height="32" width="32" src="https://cdn.simpleicons.org/steam" style="width:40px" /></a>
 <a title="lyraEz's Youtube profile" href="https://youtube.com/@chead.y?si=hGGfV4Qn_MbDgXvc"><img height="32" width="32" src="https://cdn.simpleicons.org/youtube" style="width:40px;" /></a>
 
