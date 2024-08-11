@@ -4,7 +4,7 @@ In life, I am:
 - a Brasil ⚽️ 15yo boy ;
 - an aspiring pentester ⚡ ;
 - a mid-level developer ⚙️ ;
-- a chess ♟️ & Minecraft player ;
+- a chess ♟️ Ark, AC's & Minecraft player ;
 - and way more...
 
 #### My socials:
