@@ -33,7 +33,3 @@ And more...
 
 ![lyraEz's GitHub followers](https://img.shields.io/github/followers/lyraEz)
 ![lyraEz's GitHub stars](https://img.shields.io/github/stars/lyraEz)
-![lyraEz's GitHub sponsors](https://img.shields.io/github/sponsors/lyraEz)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lyraEz&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lyraEz&theme=dark&show_icons=true&hide_border=true&layout=compact)
