@@ -1,7 +1,7 @@
 # Hi there, I'm [lyraEz](discord.com/users/941912647572545566 'lyraEz\'s Discord profile') 👀
 
 In life, I am:
-- a Brasil ⚽️ 15yo boy ;
+- a Brasil ⚽️ 16yo boy ;
 - an aspiring pentester ⚡ ;
 - a mid-level developer ⚙️ ;
 - a chess ♟️ Ark, AC's & Minecraft player ;
