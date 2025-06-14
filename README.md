@@ -1,4 +1,4 @@
-# Hi there, I'm [lyraEz](https://lyraez.site') 👀
+# Hi there, I'm [lyraEz](https://lyraez.site) 👀
 
 In life, I am:
 - a Brasil ⚽️ 16yo boy ;
