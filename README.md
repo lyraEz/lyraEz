@@ -10,10 +10,8 @@ In life, I am:
 #### My socials:
 
 <a title="lyraEz's Discord profile" href="discord.com/users/941912647572545566"><img height="32" width="32" src="https://cdn.simpleicons.org/discord" style="width:40px" /></a>
-<a title="lyraEz's Steam profile" href="https://steamcommunity.com/profiles/76561199441993632/"><img height="32" width="32" src="https://cdn.simpleicons.org/steam" style="width:40px" /></a>
 <a title="lyraEz's Youtube profile" href="https://www.youtube.com/@lyraEz"><img height="32" width="32" src="https://cdn.simpleicons.org/youtube" style="width:40px;" /></a>
 <a title="lyraEz's Guns profile" href="https://guns.lol/lyraEz"><img height="32" width="32" src="https://assets.guns.lol/guns_logo_no_background_cropped.png" style="width:40px;" /></a>
-<a title="lyraEz's Shizukii Website" href="https://shizukii.xyz/"><img height="32" width="32" src="https://lh3.googleusercontent.com/pw/AP1GczOgNv6eoKS31OuwxRH95fmoZr42yn0VNZvfgsgP7h9ZCp4d6vWyztWUmlmAS6fA0itudVTbS_4evQtucGUAyDlbHQaoX70w_y4XKRr4VAjOEJyPepbhkZ44C5xvvORJeFAWUncIOlBY6ZB01T_itwY=w501-h498-s-no-gm?authuser=0" style="width:40px;" /></a>
 
 #### Languages & Tools:
 
