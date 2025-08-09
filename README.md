@@ -11,7 +11,7 @@ In life, I’m:
 
 ## 🧱 Projects
 
-- 🔗 [lyraez.site](https://lyraez.site) — My personal space on the web  
+- 🔗 [lyraez.xyz](https://lyraez.xyz) — My personal space on the web  
 - 🧼 [Code Clean](https://code-clean-alpha.vercel.app) — Tool to clean and organize your messy code
 
 ---
