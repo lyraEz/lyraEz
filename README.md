@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [lyraEz](https://lyraez.site)
+# 👋 Hi there, I'm [lyraEz](https://lyraez.xyz)
 
 In life, I’m:
 - 🇧🇷 17y dev from Brazil  
