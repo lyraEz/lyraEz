@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm [lyraEz](https://lyraez.site)
 
 In life, I’m:
-- 🇧🇷 17yo dev from Brazil  
+- 🇧🇷 17y dev from Brazil  
 - aspiring pentester 🧠  
 - mid-level programmer ⚙️  
 - casual gamer (Ark, AC, Minecraft, Chess ♟️)  
