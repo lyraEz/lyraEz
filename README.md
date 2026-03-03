@@ -14,7 +14,7 @@ In life, I’m:
 - 🔗 [lyraez.xyz](https://lyraez.xyz) — My personal space on the web  
 - 🧼 [Code Clean](https://code-clean-alpha.vercel.app) — Tool to clean and organize your messy code
 - 🌙 [LuaScript Pro](https://luaupro.pages.dev) - Improve your Lua script with AI
-- [Liquid Studio](https://liquid-studio.pages.dev) - Elevate your shots with Liquid Glass aesthetics.
+- 💧 [Liquid Studio](https://liquid-studio.pages.dev) - Elevate your shots with Liquid Glass aesthetics.
 
 ---
 
