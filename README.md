@@ -1,43 +1,49 @@
-# 👋 Hi there, I'm [lyraEz](https://lyraez.xyz)
+# 👋 Hi, I'm [lyraEz](https://lyraez.xyz)
 
-In life, I’m:
-- 🇧🇷 17y dev from Brazil  
-- aspiring pentester 🧠  
-- mid-level programmer ⚙️  
-- casual gamer (Ark, AC, Minecraft, Chess ♟️)  
-- and always building something new...
+> 🇧🇷 17y dev from Brazil  
+> building, breaking, learning, and occasionally making things look way better than they should.
+
+---
+
+## ⟡ About me
+
+I'm a developer exploring the space between **web development**, **automation**, **UI experiments**, and **security studies**.
+
+Currently focused on:
+
+- 🧠 studying cybersecurity and pentesting
+- ⚙️ building tools, scripts and web projects
+- 🌐 experimenting with modern interfaces and visual systems
+- ♟️ gaming casually when life stops compiling errors
+- ✦ learning by building real things, not just collecting tutorials like digital dust
+
+I like projects that mix useful features with strong visual identity.  
+Clean code matters, but making it feel alive matters too.
 
 ---
 
 ## 🧱 Projects
 
-- 🔗 [lyraez.xyz](https://lyraez.xyz) — My personal space on the web  
-- 🧼 [Code Clean](https://code-clean-alpha.vercel.app) — Tool to clean and organize your messy code
-- 🌙 [LuaScript Pro](https://luaupro.pages.dev) - Improve your Lua script with AI
-- 💧 [Liquid Studio](https://liquid-studio.pages.dev) - Elevate your shots with Liquid Glass aesthetics.
+- 🔗 [**lyraez.xyz**](https://lyraez.xyz)  
+  My personal space on the web.
+
+- 🧼 [**Code Clean**](https://code-clean-alpha.vercel.app)  
+  A tool to clean, organize and improve messy code.
+
+- 🌙 [**LuaScript Pro**](https://luaupro.pages.dev)  
+  AI-powered improvements for Lua scripts.
+
+- 💧 [**Liquid Studio**](https://liquid-studio.pages.dev)  
+  A visual tool focused on Liquid Glass aesthetics and image enhancement.
 
 ---
 
 ## 🧩 Languages & Tools
 
-<a title="JavaScript" href="https://developer.mozilla.org/docs/Web/JavaScript"><img height="32" width="32" src="https://cdn.simpleicons.org/javascript" style="width:40px" /></a>
-<a title="NodeJS" href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs"><img height="32" width="32" src="https://cdn.simpleicons.org/node.js" style="width:40px" /></a>
-<a title="HTML" href="https://developer.mozilla.org/docs/Web/HTML"><img height="32" width="32" src="https://cdn.simpleicons.org/html5" style="width:40px" /></a>
-<a title="CSS" href="https://developer.mozilla.org/docs/Web/CSS"><img height="32" width="32" src="https://cdn.simpleicons.org/css3" style="width:40px" /></a>
-And more...
+### Main stack
 
----
+[![Main Stack](https://skillicons.dev/icons?i=js,ts,nodejs,react,vite,html,css,tailwind,git,github,cloudflare&theme=dark)](https://skillicons.dev)
 
-## 🌐 Connect with me
+### Also working with / learning
 
-<a title="lyraEz's Discord profile" href="https://discord.com/users/941912647572545566"><img height="32" width="32" src="https://cdn.simpleicons.org/discord" style="width:40px" /></a>
-<a title="lyraEz's Youtube profile" href="https://www.youtube.com/@lyraEz"><img height="32" width="32" src="https://cdn.simpleicons.org/youtube" style="width:40px;" /></a>
-<a title="lyraEz's Guns profile" href="https://guns.lol/lyraEz"><img height="32" width="32" src="https://assets.guns.lol/guns_logo_no_background_cropped.png" style="width:40px;" /></a>
-
----
-
-## 📊 GitHub Stats
-
-![Commits](https://img.shields.io/badge/Total%20Commits-🔥%20Check%20my%20activity-blueviolet?style=flat)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyraEz&layout=compact&theme=tokyonight)
-![Stats](https://github-readme-stats.vercel.app/api?username=lyraEz&show_icons=true&theme=tokyonight&count_private=true&hide=stars,prs)
+[![Other Tools](https://skillicons.dev/icons?i=python,lua,kotlin,androidstudio,gradle,bash,linux,md,npm,vscode,figma&theme=dark)](https://skillicons.dev)
