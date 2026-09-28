@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [lyraEz](https://lyraez.xyz)
+# 👋 Hi, I'm [lyraEz](https://lyraez.lol/)
 
 > 🇧🇷 18y dev from Brazil  
 > building, breaking, learning, and occasionally making things look way better than they should.
@@ -24,7 +24,7 @@ Clean code matters, but making it feel alive matters too.
 
 ## 🧱 Projects
 
-- 🔗 [**lyraez.xyz**](https://lyraez.xyz)  
+- 🔗 [**lyraez.xyz**](https://lyraez.lol/)  
   My personal space on the web.
 
 - 🧼 [**Code Clean**](https://code-clean-alpha.vercel.app)  
