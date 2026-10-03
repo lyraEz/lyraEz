@@ -1,40 +1,42 @@
 # 👋 Hi, I'm [lyraEz](https://lyraez.lol/)
 
-> 18y dev from Brazil 🇧🇷 
-> building, breaking, learning, and occasionally making things look way better than they should.
+> Developer from Brazil 🇧🇷  
+> I build things for the web, experiment with interfaces, automate the boring parts, and learn by shipping real projects.
 
 ---
 
 ## ⟡ About me
 
-I'm a developer exploring the space between **web development**, **automation**, **UI experiments**, and **security studies**.
+I'm a developer interested in the space where **web engineering**, **automation**, **UI/UX**, and **security** meet.
 
-Currently focused on:
+Most of my work revolves around turning ideas into actual products: polished interfaces, useful tools, scripts, APIs, and experiments that are meant to be used, not abandoned in a `/projects` folder forever.
 
-- 🧠 studying cybersecurity and pentesting
-- ⚙️ building tools, scripts and web projects
-- 🌐 experimenting with modern interfaces and visual systems
-- ♟️ gaming casually when life stops compiling errors
-- ✦ learning by building real things, not just collecting tutorials like digital dust
+- 🌐 Building modern web experiences and tools
+- ⚙️ Automating repetitive workflows
+- ✦ Exploring UI systems, motion and Liquid Glass interfaces
+- 🛡️ Studying cybersecurity and pentesting
+- 🧠 Learning through building, testing and iterating
 
-I like projects that mix useful features with strong visual identity.  
-Clean code matters, but making it feel alive matters too.
+> *The moon reminds me that even in darkness, there’s always a beautiful light.*
 
 ---
 
-## 🧱 Projects
+## 🧱 Featured Projects
 
-- 🔗 [**lyraez.xyz**](https://lyraez.lol/)  
-  My personal space on the web.
+### ◈ [Klarity](https://klarity.lyraez.lol/)
+A streaming experience focused on **clean playback, performance and a refined interface**. Built as an alternative viewing experience with custom player work and a strong focus on usability.
 
-- 🧼 [**Code Clean**](https://code-clean-alpha.vercel.app)  
-  A tool to clean, organize and improve messy code.
+### 🔗 [lyraez.lol](https://lyraez.lol/)
+My personal website and digital home, built around a modern visual identity, smooth interactions and experimental interface work.
 
-- 🌙 [**LuaScript Pro**](https://luaupro.pages.dev)  
-  AI-powered improvements for Lua scripts.
+### 🧼 [Code Clean](https://code-clean-alpha.vercel.app)
+A tool for cleaning, organizing and improving messy code.
 
-- 💧 [**Liquid Studio**](https://liquid-studio.pages.dev)  
-  A visual tool focused on Liquid Glass aesthetics and image enhancement.
+### 🌙 [LuaScript Pro](https://luaupro.pages.dev)
+AI-powered tooling focused on improving Lua scripts.
+
+### 💧 [Liquid Studio](https://liquid-studio.pages.dev)
+A visual experiment centered around Liquid Glass aesthetics and image enhancement.
 
 ---
 
@@ -47,3 +49,13 @@ Clean code matters, but making it feel alive matters too.
 ### Also working with / learning
 
 [![Other Tools](https://skillicons.dev/icons?i=python,lua,kotlin,androidstudio,gradle,bash,linux,md,npm,vscode,figma&theme=dark)](https://skillicons.dev)
+
+---
+
+<div align="center">
+
+### Building things that are useful, polished, and a little different.
+
+[Website](https://lyraez.lol/) · [Klarity](https://klarity.lyraez.lol/) · [ScriptBlox](https://scriptblox.com/u/Lyraez) · [YouTube Music](https://music.youtube.com/@lyraez)
+
+</div>
