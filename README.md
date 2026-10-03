@@ -1,6 +1,6 @@
 # 👋 Hi, I'm [lyraEz](https://lyraez.lol/)
 
-> 🇧🇷 18y dev from Brazil  
+> 18y dev from Brazil 🇧🇷 
 > building, breaking, learning, and occasionally making things look way better than they should.
 
 ---
